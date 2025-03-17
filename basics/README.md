@@ -19,4 +19,5 @@ here datatypes and variable is demonstrated
 
 to know the value range you dont have to memorise you are not a harddisk, so what you can do is raise the power of 2 to the bits it take and divide it by 2 and subtract the later one by 1.
 Eg : 2<sup>8</sup>/2 to 2<sup>8</sup>/2 -1   => cause 1 byte has 8bits.
+
 2. short -> value ranges form
